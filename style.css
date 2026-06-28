@@ -1,0 +1,16 @@
+body {
+    background-color: #ECE9E4;
+}
+
+.titulo {
+    text-align: center;
+    color: #2FA8A3;
+}
+    
+.caderno img{
+    width: 100%;
+}
+
+.texto h2{
+    color: #0B3B4A;
+}
